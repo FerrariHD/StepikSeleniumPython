@@ -1,2 +1,2 @@
 # StepikSeleniumPython
-Stepik courses (selenium python)
+Stepik - TOP
